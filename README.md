@@ -105,6 +105,5 @@ For a more complete evaluation, a future version could split the data into train
 
 This notebook is intended as a beginner-friendly demonstration of decision tree classification and model visualization using scikit-learn.
 
-## License
 
-No license is specified in the notebook. Add a license file if you intend to distribute or reuse this project publicly.
+
